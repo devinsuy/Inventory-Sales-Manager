@@ -1,0 +1,10 @@
+Name                        Address                                             Number                  Tax Percentage
+Dominic Jones.              "9368 Manhattan Dr.Rapid City, SD 57701"            (202)555-0111"            0.05%
+Nathan Graham.              "8406 East Pilgrim Lane Kenosha, WI 53140"          (202)555-0178"            0.05%
+Jane Parsons.               "8481 Big Rock Cove Street Baldwin, NY 11510"       (202)555-0167"            0.10%
+Ella Howard.                "739 Prospect Avenue Oak Forest, IL 60452"          (202)555-0148"            0.06%
+Lily Mackay.                "83 Crescent Drive Land O Lakes, FL 34639"          (202)555-0161"            0.07%
+Keith Oliver.               "51 2nd St. Orchard Park, NY 14127"                 (202)555-0112"            0.05%
+Devin Suy.                  "452 W 8th St, CA 90813"                            (209)329-6586"            0.09%
+Michael Scott.              "1872 Chatfield Circle, CA 95209"                   (209)474-7875"            0.15%
+Steve.                      "412 W 10th St, CA 91234"                           (123)456-7890"            0.11%
